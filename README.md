@@ -4,10 +4,10 @@ CGFNet: 3D Convolution Guided and Multi-scale Volume Fusion Network for Fast and
 
 Submitted to ***Pattern Recognition Letters***.
 
-![KITTI Benchmark](D:\Users\wqy98\Desktop\CGFNet\Fig\KITTI Benchmark.png)
+<img src="/Fig/KITTI Benchmark.png" width="100%" >
 
-![Architecture](D:\Users\wqy98\Desktop\CGFNet\Fig\Architecture.png)
+<img src="/Fig/Architecture.png" width="100%" >
 
-![Visualization](D:\Users\wqy98\Desktop\CGFNet\Fig\Visualization.png)
+<img src="/Fig/Visualization.png" width="100%" >
 
 ***Note:*** relative code will be released here after accepted for publication on Pattern Recognition Letters.
