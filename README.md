@@ -1,4 +1,4 @@
-# **CGFNet**
+# ***CGFNet***
 
 CGFNet: 3D Convolution Guided and Multi-scale Volume Fusion Network for Fast and Robust Stereo Matching
 
