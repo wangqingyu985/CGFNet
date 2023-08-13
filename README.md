@@ -2,7 +2,15 @@
 
 Wang, Q., Xing, H., Ying, Y., & Zhou, M. (2023). CGFNet: 3D Convolution Guided and Multi-scale Volume Fusion Network for fast and robust stereo matching. *Pattern Recognition Letters*.
 
+**Datasets：**
 
+Scene Flow
+
+KITTI 2012 and KITTI 2015
+
+Middlebury
+
+ETH3D
 
 **Network Architecture:**
 
@@ -24,7 +32,7 @@ Part of the code is adopted from the related studies: [BGNet](https://github.com
 
 We would like to thank the original authors for their awesome contributions.
 
-To cite this paper:
+**To cite this paper:**
 
 ```
 @article{wang2023cgfnet,
