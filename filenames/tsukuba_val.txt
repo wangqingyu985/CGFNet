@@ -1,0 +1,2 @@
+illumination/daylight/left/tsukuba_daylight_L_00009.png illumination/daylight/right/tsukuba_daylight_R_00009.png groundtruth/disparity_maps/left/tsukuba_disparity_L_00009.png
+illumination/daylight/left/tsukuba_daylight_L_00010.png illumination/daylight/right/tsukuba_daylight_R_00010.png groundtruth/disparity_maps/left/tsukuba_disparity_L_00010.png

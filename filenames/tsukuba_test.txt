@@ -1,0 +1,4 @@
+illumination/daylight/left/tsukuba_daylight_L_00011.png illumination/daylight/right/tsukuba_daylight_R_00011.png
+illumination/daylight/left/tsukuba_daylight_L_00012.png illumination/daylight/right/tsukuba_daylight_R_00012.png
+illumination/daylight/left/tsukuba_daylight_L_00013.png illumination/daylight/right/tsukuba_daylight_R_00013.png
+illumination/daylight/left/tsukuba_daylight_L_00014.png illumination/daylight/right/tsukuba_daylight_R_00014.png
